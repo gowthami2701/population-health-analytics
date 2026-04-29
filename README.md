@@ -4,6 +4,7 @@
 ![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![Tools](https://img.shields.io/badge/Tools-Python%20%7C%20Tableau%20%7C%20Excel-blue)
 ![Data](https://img.shields.io/badge/Data-CDC%20PLACES%20Format-orange)
+![Dashboard](dashboard.png)
 
 ---
 
